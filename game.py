@@ -3,7 +3,7 @@ from copy import deepcopy
 from random import choice, randint
 
 W, H = 10, 20
-TILE = 45
+TILE = 25
 GAME_RES = W * TILE, H * TILE
 CELL_SIZE = TILE
 FPS = 60
